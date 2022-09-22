@@ -3,8 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: It prints out "with proper grammar, but the outcome is a piece of art"
- *
+ * Description: Prints out "with proper grammar, but the outcome is a piece of art"
  * Return: 0
  */
 int main(void)
